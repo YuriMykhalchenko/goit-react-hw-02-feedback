@@ -1,16 +1,16 @@
 export const theme = {
   colors: {
     heading: 'black',
-    text: 'grey',
-    button: 'rgb(134, 203, 200)',
-    buttonHover: 'rgb(157, 222, 219)',
+    text: 'blue',
+    button: 'orange',
+    buttonHover: 'red',
   },
   typography: {
     heading: '40px',
     text: '24px',
   },
   space: {
-    main: '32',
+    main: '44',
     secondary: '8',
   },
 };

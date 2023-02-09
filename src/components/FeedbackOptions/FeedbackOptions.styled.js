@@ -10,10 +10,12 @@ export const Button = styled.button`
   box-shadow: 1px 3px 5px ${theme.colors.button};
   border: none;
   border-radius: 5px;
+  color: aqua;
   background-color: ${theme.colors.button};
 
   &:hover,
   &:focus {
     background-color: ${theme.colors.buttonHover};
+    box-shadow: 1px 3px 5px ${theme.colors.buttonHover};
   }
 `;

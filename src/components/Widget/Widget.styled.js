@@ -13,6 +13,7 @@ export const WrapperButton = styled.div`
   display: flex;
   gap: ${theme.space.main}px;
   margin: 0;
+  margin-top: 24px;
   margin-bottom: ${theme.space.main}px;
   padding: 0;
 `;
