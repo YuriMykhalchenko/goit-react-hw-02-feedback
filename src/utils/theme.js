@@ -1,6 +1,6 @@
 export const theme = {
   colors: {
-    heading: 'black',
+    heading: 'chocolate',
     text: 'blue',
     button: 'orange',
     buttonHover: 'red',
